@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+body{
+    position: relative;
+    background-image: url('img/criativo-65b5473e59b9fMjcvMDEvMjAyNCAxNWgxMQ==.jpg');
+    background-repeat:no-repeat ;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    min-width: 475px;
+}
+
+#imagem{
+    text-align: center;
+}
+main{
+    width: fit-content;
+    margin: auto;
+    min-width: 635px;
+    max-width: 900px;
+}
+h1{
+    font-size: 2.5em;
+    color: white;
+    text-align: center;
+    text-shadow: -3px 3px 3px black;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+p{
+    color: white;
+    font-size: 1.5em;
+    text-align: justify;
+    text-indent: 25px;
+    
+}
+.bloco{
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 2px 3px 40px silver;
+    margin: 65px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.616);
+}
