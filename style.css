@@ -7,16 +7,18 @@ body{
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
-    min-width:450px;
+    min-width:300px;
 }
-
+header{
+    min-width: 300px;
+}
 .imagem{
     text-align: center;
 }
 main{
     width: fit-content;
     margin: auto;
-    min-width: 450px;
+    min-width: 300px;
     max-width: 1250px;
 }
 h1{
@@ -38,6 +40,7 @@ h1{
     left: 10px;
     top: 10px;
     transition: 0.5s;
+    
 }
 #home:hover{
     color: black;
@@ -79,6 +82,7 @@ p{
     margin: 65px;
     padding: 20px;
     background-color: rgba(0, 0, 0, 0.801);
+    min-width: 300px;
 }
 a{
     color: white;
@@ -99,10 +103,11 @@ a{
     padding-top: 92px;
     padding-bottom: 92px;
     background-image: url('img/UEFA-Champions-League-700x350.jpg');
-    
-    width: 660px;
+    min-width: 300px;
+    max-width: 660px;
     background-repeat: no-repeat;
     background-position: center center;
+    background-size: cover;
 
 }
 aside > a{
