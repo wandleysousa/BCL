@@ -2,7 +2,7 @@
 
 body{
     position: relative;
-    background-image: url('img/criativo-65b5473e59b9fMjcvMDEvMjAyNCAxNWgxMQ==.jpg');
+    background-image: url('img/cropped-UEFA-Champions-League-Stadium-Wallpaper.jpg');
     background-repeat:no-repeat ;
     background-size: cover;
     background-attachment: fixed;
@@ -36,21 +36,24 @@ section{
     text-align: justify;
     text-indent: 25px;
     text-align: center;
+    
 }
+
 #divsec{
     padding-top: 15px;
     text-align: center;
     
 }
-section > #divsec{
+#a2 > #divsec{
     display: none;
 }
-section:hover > #divsec{
+#a2:hover > #divsec{
     display: block;
 }
 ul{
     list-style-type:none; 
     columns: 2;
+    text-align: justify;
 }
 p{
     color: white;
@@ -66,4 +69,30 @@ p{
     margin: 65px;
     padding: 20px;
     background-color: rgba(0, 0, 0, 0.616);
+}
+a{
+    text-decoration:none;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-weight: bold;
+    transition-duration: 0.5s;
+}
+
+#link:hover > a{
+    color: rgba(0, 255, 255, 0.61);
+    background-color: #0f1a14cb;
+    border-radius: 5px;
+}
+#champion{
+    text-align: center;
+    background-image: url(img/uefa-champions-league-star-football-logo-8dv90jbvwwhzp9c0.jpg);
+   border-radius: 15px;
+}
+article > p{
+    display: none;
+}
+article:hover > p{
+    display: block;
+    text-align: center
 }
