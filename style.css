@@ -128,3 +128,14 @@ aside:hover > a{
     text-shadow: 1px 2px 2px black;
 }
 
+
+table{
+    color: white;
+    
+}
+td{
+    font-size: 1.5em;
+    padding: 10px;
+    padding-left: 25px;
+    text-align: center;
+}
