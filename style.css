@@ -3,6 +3,7 @@
 body{
     position: relative;
     background-image: url('img/cropped-UEFA-Champions-League-Stadium-Wallpaper.jpg');
+    
     background-repeat:no-repeat ;
     background-size: cover;
     background-attachment: fixed;
