@@ -94,6 +94,13 @@ a{
     transition-duration: 0.5s;
     text-align: center;
 }
+footer>a{
+    
+position: absolute;
+left: 50%;
+transform: translate(-50%);
+
+}
 
 .link:hover > a{
     color: black;
@@ -132,10 +139,9 @@ table{
 }
 td{
     font-size: 1.5em;
-    padding: 10px;
+    padding: 20px;
     padding-left: 25px;
+    text-align: center;
     
 }
-article{
-    max-width: 870px;
-}
+
