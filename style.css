@@ -112,7 +112,7 @@ transform: translate(-50%);
     height: 380px;
     background-position: center center;
     border: none;
-
+    background-size: cover;
 }
 aside > a{
     color: white;
