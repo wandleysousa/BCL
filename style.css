@@ -144,6 +144,9 @@ table{
     color: white;
     
 }
+tr{
+    text-align: center;
+}
 td{
     font-size: 1.5em;
     padding: 20px;
