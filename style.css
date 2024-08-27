@@ -7,6 +7,7 @@ body{
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
+    
   
 }
 header{
@@ -28,6 +29,7 @@ h1{
     color: white;
     text-align: center;
     text-shadow: -3px 3px 3px black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 #home{
     text-align: left;
@@ -51,6 +53,7 @@ h2{
     color: white;
     text-align: center;
     font-size: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 section{
     
@@ -75,7 +78,7 @@ p{
     font-size: 1.5em;
     text-align: justify;
     text-indent: 25px;
-    
+    font-family: Arial, Helvetica, sans-serif;
 }
 .bloco{
     border: 1px solid black;
@@ -93,6 +96,7 @@ a{
     font-weight: lighter;
     transition-duration: 0.5s;
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 footer>a{
     
@@ -152,6 +156,6 @@ td{
     padding: 20px;
     padding-left: 25px;
     text-align: center;
-    
+    font-family: Arial, Helvetica, sans-serif;
 }
 
