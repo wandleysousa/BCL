@@ -98,7 +98,7 @@ a{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
-footer>a{
+div > a{
     
 position: absolute;
 left: 50%;
