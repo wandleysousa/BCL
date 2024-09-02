@@ -118,7 +118,7 @@ div:hover > a{
     height: 380px;
     background-position: center center;
     border: none;
-    min-width: 5vw;
+    width: 40vw;
     background-size: cover;
     padding: 5px;
 }
