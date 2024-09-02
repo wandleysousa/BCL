@@ -11,7 +11,7 @@ body{
   
 }
 header{
-    min-width: 300px;
+    min-width: 5vw;
 }
 .imagem{
     text-align: center;
@@ -21,7 +21,7 @@ main{
     left: 50%;
 
     transform: translate(-50%);
-   min-width: 357px; 
+   min-width: 5vw; 
     
 }
 h1{
@@ -119,7 +119,6 @@ div:hover > a{
     background-position: center center;
     border: none;
     min-width: 5vw;
-    max-width: 850px;
     background-size: cover;
     padding: 5px;
 }
