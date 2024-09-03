@@ -42,10 +42,10 @@ h1{
     box-shadow: 1px 2px 3px black;
     padding: 5px;
     position: absolute;
-    left: -40px;
+    left: -20px;
     top: -20px;
     transition: 0.5s;
-    width: 13vw;
+    width: 20vw;
     
 }
 #home:hover{
@@ -86,7 +86,6 @@ p{
     border: 1px solid black;
     border-radius: 10px;
     box-shadow: 2px 3px 40px silver;
-    margin: 65px;
     padding: 20px;
     background-color: rgba(0, 0, 0, 0.801);
     
@@ -131,6 +130,7 @@ div:hover > a{
 
     position:absolute;
     left: 50%;
+    top: 270%;
 transform: translate(-50%);
 }
 aside > a{
@@ -140,6 +140,7 @@ aside > a{
     font-weight: lighter;
     transition-duration: 0.5s;
     text-align: center;
+    
 }
 aside:hover > a{
     color: black;
@@ -154,6 +155,7 @@ aside:hover > a{
 
 table{
     color: white;
+    width: 50vw;
     
 }
 tr{
@@ -169,4 +171,17 @@ td{
 
 main{
     max-width: 90VW;
+}
+article{
+    width: 50vw;
+    position:absolute;
+    left: 50%;
+    top: 100%;
+    transform: translate(-50%);
+}
+#CAMPEA{
+    position: absolute;
+    left: 50%;
+    top: 250%;
+    transform: translate(-50%);
 }
