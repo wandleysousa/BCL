@@ -30,7 +30,7 @@ h1{
     text-align: center;
     text-shadow: -3px 3px 3px black;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    width: 78vw;
+    width: 75vw;
 }
 #home{
     text-align: left;
@@ -88,6 +88,7 @@ p{
     box-shadow: 2px 3px 40px silver;
     padding: 20px;
     background-color: rgba(0, 0, 0, 0.801);
+    width: 50vw;
     
 }
 a{
@@ -118,7 +119,7 @@ div:hover > a{
     height: 380px;
     background-position: center center;
     border: none;
-    width: 40vw;
+    width: 50vw;
     background-size: cover;
     padding: 5px;
     
@@ -155,7 +156,8 @@ aside:hover > a{
 
 table{
     color: white;
-    width: 60vw;
+    text-align: center;
+    
     
 }
 tr{
